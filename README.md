@@ -12,7 +12,7 @@ The repository is divided into the following modules:
 - [**Compilation**](./Compilation): Resources and materials related to compiler design and implementation.
 - [**GL (Gestion des Logiciels)**](./GL): Content about software management and development methodologies.
 - [**IHM (Interfaces Homme-Machine)**](./IHM): Notes and resources on user interface and user experience design.
-- [**Proba (Probability)**](./Probabilités_et_Statistique): Study materials for probability and statistics.
+- [**Proba (Probability)**](./https://github.com/kkbbmrl/resources-3dYear/tree/93bc0da324b01afece5fa56632cea3d1ea938250/Probabilit%C3%A9s%20et%20Statistique): Study materials for probability and statistics.
 - [**Programmation Linéaire**](./Programmation-Lineaire): Resources on linear programming and optimization.
 - [**Operating System**](./Operating-System): Notes and examples covering operating system concepts.
 
