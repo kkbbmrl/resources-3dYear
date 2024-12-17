@@ -1,6 +1,6 @@
 # Project Name
 
-![License Badge](https://img.shields.io/github/license/username/repository)  
+![License Badge](Compilation )  
 ![Issues Badge](https://img.shields.io/github/issues/username/repository)  
 ![Stars Badge](https://img.shields.io/github/stars/username/repository)  
 
