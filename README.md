@@ -14,7 +14,7 @@ The repository is divided into the following modules:
 - [**IHM (Interfaces Homme-Machine)**](./IHM): Notes and resources on user interface and user experience design.
 - [**Proba (Probability)**](./Probabilités et Statistique): Study materials for probability and statistics.
 - [**Programmation Linéaire**](./Programmation-linear): Resources on linear programming and optimization.
-- [**Operating System**](./Operating-System): Notes and examples covering operating system concepts.
+- [**Operating System**](./Se2): Notes and examples covering operating system concepts.
 
 ---
 
