@@ -13,7 +13,7 @@ The repository is divided into the following modules:
 - [**GL (Gestion des Logiciels)**](./GL): Content about software management and development methodologies.
 - [**IHM (Interfaces Homme-Machine)**](./IHM): Notes and resources on user interface and user experience design.
 - [**Proba (Probability)**](./Proba): Study materials for probability and statistics.
-- [**Programmation Linéaire**](./Programmation-linear ): Resources on linear programming and optimization.
+- [**Programmation Linéaire**](./programmation-Linear): Resources on linear programming and optimization.
 - [**Operating System**](./Se2): Notes and examples covering operating system concepts.
 
 ---
