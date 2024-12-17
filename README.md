@@ -1,7 +1,7 @@
 # Academic Resources Repository
 
 Welcome to my repository of academic resources!  
-This repo is organized into modules covering various subjects I’ve studied. Each module folder contains relevant materials such as lecture notes, exercises, examples, and other resources.
+This repo is organized into modules covering various subjects I’ve studied. Each module folder contains relevant materials such as lecture notes, exercises, examples, books  and other resources.
 
 ---
 
