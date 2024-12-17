@@ -33,5 +33,5 @@ The repository is divided into the following modules:
 3. **Clone the repository to your local machine (optional):**  
    If you’d like to work offline, clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/kkbbmrl/resources-3dYear.git
    
