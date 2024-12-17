@@ -1,33 +1,36 @@
-# Project Name
+# Academic Resources Repository
 
-![License Badge](#Compilation )  
-![Issues Badge](https://img.shields.io/github/issues/username/repository)  
-![Stars Badge](https://img.shields.io/github/stars/username/repository)  
-
-## 🚀 Project Description
-
-Provide a concise and compelling description of your project here.  
-Explain **what the project does**, **why it exists**, and **who it is for**.
+Welcome to my repository of academic resources!  
+This repo is organized into modules covering various subjects I’ve studied. Each module folder contains relevant materials such as lecture notes, exercises, examples, and other resources.
 
 ---
 
-## 🖥️ Technologies Used
+## 📂 Repository Structure
 
-- **Frontend**: List of technologies (e.g., React, HTML5, CSS3)
-- **Backend**: List of technologies (e.g., Node.js, Python, Java)
-- **Database**: List of databases (e.g., MySQL, MongoDB)
-- **Other Tools**: List of additional tools (e.g., Docker, Git, CI/CD pipelines)
+The repository is divided into the following modules:
+
+- [**Compilation**](./Compilation): Resources and materials related to compiler design and implementation.
+- [**GL (Gestion des Logiciels)**](./GL): Content about software management and development methodologies.
+- [**IHM (Interfaces Homme-Machine)**](./IHM): Notes and resources on user interface and user experience design.
+- [**Proba (Probability)**](./Proba): Study materials for probability and statistics.
+- [**Programmation Linéaire**](./Programmation-Lineaire): Resources on linear programming and optimization.
+- [**Operating System**](./Operating-System): Notes and examples covering operating system concepts.
 
 ---
 
-## 📁 Project Structure
+## 🚀 How to Use This Repository
 
-Explain the folder structure, such as:
+1. **Navigate to a module folder:**  
+   Click on any module link above to access its materials.
 
-```plaintext
-src/
-├── main/
-│   ├── java/         # Java source files
-│   ├── resources/    # Configurations and static assets
-├── webapp/           # Web-related files
-├── test/             # Unit and integration tests
+2. **Explore resources within each module:**  
+   Inside each folder, you will find:
+   - Lecture notes (`.pdf`, `.docx`, or `.md`)
+   - Exercises with solutions (`.pdf`, `.txt`, or `.md`)
+   - Code examples (e.g., `.java`, `.py`, `.cpp`)
+   - Additional references or project files
+
+3. **Clone the repository to your local machine (optional):**  
+   If you’d like to work offline, clone the repository using the following command:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
