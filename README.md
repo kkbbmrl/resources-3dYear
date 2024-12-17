@@ -9,7 +9,7 @@ This repo is organized into modules covering various subjects I’ve studied. Ea
 
 The repository is divided into the following modules:
 
-- [**Compilation**](./Compilation): Resources and materials related to compiler design and implementation.
+- [**Compilation**](./compilation): Resources and materials related to compiler design and implementation.
 - [**GL (Gestion des Logiciels)**](./GL): Content about software management and development methodologies.
 - [**IHM (Interfaces Homme-Machine)**](./IHM): Notes and resources on user interface and user experience design.
 - [**Proba (Probability)**](./Proba): Study materials for probability and statistics.
