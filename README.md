@@ -35,11 +35,3 @@ The repository is divided into the following modules:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    
-### How to Use:
-1. Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
-2. Make sure the folder names in the links match the actual names in your repository.
-3. Add or remove topics as needed based on your materials.  
-4. Add or update the "Acknowledgments" section if applicable.  
-
-This README provides an organized and user-friendly way for others to navigate and use your resources.
-
